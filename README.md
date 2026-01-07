@@ -38,7 +38,7 @@ Run individual tools manually or through your automation script (if provided).
 
 Example:
 
-./osint.sh example.com
+./oculus.sh example.com
 
 📁 Output Structure
 
