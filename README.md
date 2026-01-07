@@ -27,8 +27,8 @@ The following open-source tools are used in this OSINT machine:
 Clone the repository and run the installation script:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/waleedkashif99/Oculus-Debian-based-Osint-Machine.git
+cd Oculus-Debian-based-Osint-Machine
 chmod +x install.sh
 ./install.sh
 
